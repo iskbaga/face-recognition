@@ -1,2 +1,2 @@
 # face-recognition
-Pipeline for face recognition from photo
+Скоро здесь будет код, проект дооформляется
